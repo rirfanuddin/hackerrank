@@ -1,4 +1,4 @@
-package hackerrank.practice.interviewpreparationkit.warmupchallenges;
+package hackerrank.interviewpreparationkit.warmupchallenges;
 
 import java.util.Scanner;
 
